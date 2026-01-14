@@ -27,3 +27,5 @@ function calcularMDC(a, b) {
 // Exemplo de uso:
 console.log("MDC(150, 180):", calcularMDC(150, 180)); // Saída: 6
 console.log("MDC(101, 103):", calcularMDC(101, 103)); // Saída: 1
+
+module.exports = calcularMDC;

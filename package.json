@@ -1,0 +1,24 @@
+{
+  "name": "atd_mod20-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imv.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro001979/ATD_Mod20-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pedro001979/ATD_Mod20-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Pedro001979/ATD_Mod20-JavaScript#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
