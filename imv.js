@@ -45,3 +45,5 @@ const indices = encontrarIndicesMaiorMenor(numeros);
 console.log("Array:", numeros);
 console.log("Índices:", indices);
 // Saída: Índices: { indiceMaior: 1, indiceMenor: 3 }
+
+module.exports = encontrarIndicesMaiorMenor;

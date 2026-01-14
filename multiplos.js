@@ -47,3 +47,5 @@ function somaMultiplosOtimizada(limite) {
 // Resultado:
 const resultadoSoma = somaMultiplosDe5Ou7AbaixoDe1000();
 console.log("Soma dos múltiplos de 5 ou 7 abaixo de 1000:", resultadoSoma);
+
+module.exports = somaMultiplosDe5Ou7AbaixoDe1000
